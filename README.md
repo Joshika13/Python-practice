@@ -6,6 +6,7 @@ This repository contains my Python practice programs.
 - Patterns
 - Loops
 - Numbers
+- collections
 - Basic Python Programs
 
 ## Programs
@@ -14,3 +15,5 @@ This repository contains my Python practice programs.
 - Pattern printing
 - Sum of numbers
 - Temperature conversion
+- factorial
+- fibonacci
